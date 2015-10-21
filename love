@@ -1,9 +1,4 @@
-#include<stdio.h>
-#include <conio.h>
-{
-int i,v,k;
-i=10, v=5;
-k=i+v;
-printf("%d",k);
-getch()
+kjhuhu
+,llmk
+
 
